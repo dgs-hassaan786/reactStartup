@@ -1,0 +1,25 @@
+React Create a Virtual Element which is cheaper
+----------
+Different between Angular and React
+- Angular is a complete framework
+- React is just a library
+
+###############################################3
+Configuration steps
+
+1. Install nodejs 
+2. Visual Studio Code for development
+	Installed 2 extensions
+		1. Simple react Snippets
+		2. Prettier - Code formatter
+
+3. Install react package from npm using command
+		npm i g create-react-app@1.5.2
+
+4. create a new app using command
+		create-react-app [app-name]
+		
+
+		
+IMP notes:
+React.Fragment is use for wrapping multiple elements in a single line
